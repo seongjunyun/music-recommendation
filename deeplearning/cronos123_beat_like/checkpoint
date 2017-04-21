@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ysj/Downloads/deeplearning/cronos123_beat_like/model.ckpt-3000-?????-of-00001"
+all_model_checkpoint_paths: "/home/ysj/Downloads/deeplearning/cronos123_beat_like/model.ckpt-1-?????-of-00001"
+all_model_checkpoint_paths: "/home/ysj/Downloads/deeplearning/cronos123_beat_like/model.ckpt-3000-?????-of-00001"
